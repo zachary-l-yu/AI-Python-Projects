@@ -1,3 +1,6 @@
+WHAT EACH FILE/PROJECT DOES
+
+
 chatbot.py
 
 - Learns from user input
