@@ -1,4 +1,4 @@
-AI Chatbot (Python CLI)
+chatbot.py
 
 - Learns from user input
 - Stores responses using JSON
